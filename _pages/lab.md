@@ -33,7 +33,7 @@ Below are a few of the themes our lab explores:
 - Zhouming Wu (Northeastern University)
 
 **Undergraduate Students**
-- 
+- Hasan Serville
 
 **Visiting Students**
 - Yixuan Liu (PhD student, Northeastern University)
